@@ -6,6 +6,7 @@
  * By Michael Teeuw https://michaelteeuw.nl
  * MIT Licensed.
  */
+console.log("Stephanie Smells");
 var address = "localhost";
 var port = 8080;
 if (typeof mmPort !== "undefined") {
